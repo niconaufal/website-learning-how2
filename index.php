@@ -1,3 +1,3 @@
 <? php
-include_once("index.js");
+include_once("main.js");
 ?>
