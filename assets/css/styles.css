@@ -192,13 +192,13 @@ img{
     row-gap: 5rem;
 }
 .home__title{
-    align-self: flex-end;
+    align-self: flex;
     font-size: var(--big-font-size);
     color: var(--white-color);
-    line-height: .8;
+    line-height: .5;
 }
 .home__title span{
-    text-shadow: 0 10px 15px rgba(216, 211, 211, 0.5);
+    text-shadow: 0 10px 15px rgba(200, 210, 210, 0.5);
 }
 .home__scroll{
     align-self: flex-end;
