@@ -192,10 +192,10 @@ img{
     row-gap: 5rem;
 }
 .home__title{
-    align-self: flex;
-    font-size: var(--big-font-size);
+    align-self: flex-end;
+    font-size: var(--normal-font-size);
     color: var(--white-color);
-    line-height: .5;
+    line-height: .8;
 }
 .home__title span{
     text-shadow: 0 10px 15px rgba(200, 210, 210, 0.5);
